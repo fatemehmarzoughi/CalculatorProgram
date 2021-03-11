@@ -14,5 +14,5 @@ class Foo {
    * Returns a bool.
    * @return Always True.
    */
-  bool doSomething();
+  bool calculator();
 };
